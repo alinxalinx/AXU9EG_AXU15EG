@@ -7,11 +7,11 @@
 		│
 		├── hardware
 		│	│
-		│	├── AXU9EV 
+		│	├── AXU9EG
 		│	│	│
 		│	│	└─ design_1_wrapper.xsa	
 		│	│
-		│	└── AXU15EV 
+		│	└── AXU15EG
 		│		│	
 		│	 	└─ design_1_wrapper.xsa	
 		│
